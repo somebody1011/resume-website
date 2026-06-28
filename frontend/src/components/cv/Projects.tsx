@@ -20,8 +20,8 @@ const projects = [
     tech: ["TypeScript", "RESTapi", "Axios"],
     stars: "1",
     forks: "0",
-    status: "development",
-    link:"https://github.com/somebody1011/finconnect"
+    status: "beta",
+    link:"https://finconnect.mintlify.app"
   },
   // {
   //   name: "ledger-cli",
